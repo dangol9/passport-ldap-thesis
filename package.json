@@ -1,0 +1,25 @@
+{
+  "name": "passport-ldap-thesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangol9/passport-ldap-thesis.git"
+  },
+  "author": "Daniel Golubkov",
+  "bugs": {
+    "url": "https://github.com/dangol9/passport-ldap-thesis/issues"
+  },
+  "homepage": "https://github.com/dangol9/passport-ldap-thesis#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "nodemon": "^3.1.10",
+    "passport": "^0.7.0",
+    "passport-ldapauth": "^3.0.1"
+  }
+}
